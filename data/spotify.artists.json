@@ -1,0 +1,365 @@
+[{
+  "_id": {
+    "$oid": "64ba42320d4c09cb7c59a768"
+  },
+  "name": "Lynda Wuckert",
+  "dateOfBirth": {
+    "$date": {
+      "$numberLong": "-180528083420"
+    }
+  },
+  "genre": "Country",
+  "albums": [
+    "We Will Rock You",
+    "Let's Hear it For the Boy",
+    "Over the Rainbow",
+    "Incense & Peppermints",
+    "Honey",
+    "Dreams",
+    "You Can't Hurry Love",
+    "The Morning After",
+    "Because of You"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ba42320d4c09cb7c59a76a"
+  },
+  "name": "Forrest Schmeler",
+  "dateOfBirth": {
+    "$date": "2001-06-20T01:37:58.259Z"
+  },
+  "genre": "Classical",
+  "albums": [
+    "I Feel Fine",
+    "Honky Tonk"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ba42320d4c09cb7c59a76c"
+  },
+  "name": "Matthew Dickinson",
+  "dateOfBirth": {
+    "$date": "1996-04-08T17:56:30.536Z"
+  },
+  "genre": "Country",
+  "albums": [
+    "That's Amore",
+    "We Are the Champions",
+    "Baby One More Time",
+    "Eve of Destruction",
+    "I'll Be Missing You",
+    "Love Me Do",
+    "Duke of Earl",
+    "Let Me Love You",
+    "All You Need is Love"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ba42330d4c09cb7c59a76e"
+  },
+  "name": "Gayle Beahan",
+  "dateOfBirth": {
+    "$date": "1980-08-19T02:32:00.668Z"
+  },
+  "genre": "Pop",
+  "albums": [
+    "Drops of Jupiter (Tell Me)",
+    "Ain't Misbehavin'"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ba42340d4c09cb7c59a770"
+  },
+  "name": "Terry Hodkiewicz MD",
+  "dateOfBirth": {
+    "$date": "1983-04-24T15:22:43.032Z"
+  },
+  "genre": "Rock",
+  "albums": [
+    "Private Eyes",
+    "Foolish Games",
+    "Do You Love Me?",
+    "We Are the Champions",
+    "Boogie Woogie Bugle Boy",
+    "All Along the Watchtower"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ba42340d4c09cb7c59a772"
+  },
+  "name": "Alan Murphy",
+  "dateOfBirth": {
+    "$date": "1996-05-07T02:27:34.386Z"
+  },
+  "genre": "Classical",
+  "albums": [
+    "Whole Lotta Shakin' Goin' On",
+    "Footloose",
+    "Horse With No Name",
+    "Come Together",
+    "Chances Are",
+    "Careless Whisper",
+    "Down Under",
+    "Tonight's the Night (Gonna Be Alright)"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ba42340d4c09cb7c59a774"
+  },
+  "name": "Lauren Bailey",
+  "dateOfBirth": {
+    "$date": {
+      "$numberLong": "-186686073638"
+    }
+  },
+  "genre": "Latin",
+  "albums": [
+    "Whip It",
+    "It's Too Late",
+    "Over There",
+    "Jack & Diane",
+    "So Much in Love",
+    "Jack & Diane",
+    "Apologize",
+    "Moonlight Serenade"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ba42340d4c09cb7c59a776"
+  },
+  "name": "Darlene Hand",
+  "dateOfBirth": {
+    "$date": "1973-05-13T01:45:35.967Z"
+  },
+  "genre": "Pop",
+  "albums": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ba42350d4c09cb7c59a778"
+  },
+  "name": "Rebecca Herzog",
+  "dateOfBirth": {
+    "$date": "2006-12-27T22:12:44.542Z"
+  },
+  "genre": "Jazz",
+  "albums": [
+    "Green Tambourine",
+    "Fallin'",
+    "Feel Like Making Love",
+    "Groove is in the Heart",
+    "The Twist",
+    "Band On the Run",
+    "Use Somebody",
+    "Shake Down",
+    "The Love You Save"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ba42350d4c09cb7c59a77a"
+  },
+  "name": "Clyde Kozey-Hudson",
+  "dateOfBirth": {
+    "$date": "1983-10-02T09:01:11.424Z"
+  },
+  "genre": "Latin",
+  "albums": [
+    "Rock Your Baby",
+    "Superstition",
+    "Three Times a Lady",
+    "Sing"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ba42350d4c09cb7c59a77c"
+  },
+  "name": "Antonia Hickle",
+  "dateOfBirth": {
+    "$date": "2003-05-27T11:20:37.541Z"
+  },
+  "genre": "Pop",
+  "albums": [
+    "Bitter Sweet Symphony",
+    "Breaking Up is Hard to Do",
+    "The End of the World",
+    "(It's No) Sin",
+    "(Just Like) Starting Over",
+    "(I've Got a Gal In) Kalamazoo"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ba42350d4c09cb7c59a77e"
+  },
+  "name": "Robin Hoppe",
+  "dateOfBirth": {
+    "$date": "1998-11-28T17:03:02.784Z"
+  },
+  "genre": "Country",
+  "albums": [
+    "Wicked Game",
+    "Brother Louie",
+    "One of Us",
+    "Surfin' USA",
+    "Grease"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ba42360d4c09cb7c59a780"
+  },
+  "name": "Debra Purdy",
+  "dateOfBirth": {
+    "$date": "1996-04-15T21:31:47.068Z"
+  },
+  "genre": "Blues",
+  "albums": [
+    "Save the Last Dance For Me",
+    "Streets of Philadelphia"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ba42360d4c09cb7c59a782"
+  },
+  "name": "Victor Sauer",
+  "dateOfBirth": {
+    "$date": "1971-10-18T04:02:39.903Z"
+  },
+  "genre": "Non Music",
+  "albums": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ba42360d4c09cb7c59a784"
+  },
+  "name": "Gene Kuhic",
+  "dateOfBirth": {
+    "$date": {
+      "$numberLong": "-28564368019"
+    }
+  },
+  "genre": "Rock",
+  "albums": [
+    "I'll Be There",
+    "Because You Loved Me",
+    "Baby Love"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ba42370d4c09cb7c59a786"
+  },
+  "name": "Micheal Koepp",
+  "dateOfBirth": {
+    "$date": "2001-08-18T01:58:21.914Z"
+  },
+  "genre": "Classical",
+  "albums": [
+    "California Girls",
+    "The Hustle",
+    "Wake Me Up Before You Go Go",
+    "Ain't No Sunshine",
+    "You Don't Have to Be a Star (To Be in My Show)",
+    "Baby Got Back",
+    "Loving You"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ba42370d4c09cb7c59a788"
+  },
+  "name": "Hugh Ondricka III",
+  "dateOfBirth": {
+    "$date": "1975-10-15T00:35:21.949Z"
+  },
+  "genre": "Blues",
+  "albums": [
+    "Ain't No Sunshine",
+    "Smoke! Smoke! Smoke! (That Cigarette)",
+    "Monday Monday",
+    "Ac-cent-tchu-ate the Positive"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ba42370d4c09cb7c59a78a"
+  },
+  "name": "Dr. Renee McClure",
+  "dateOfBirth": {
+    "$date": "1997-12-14T01:14:38.136Z"
+  },
+  "genre": "Reggae",
+  "albums": [
+    "Till The End of Time",
+    "Sweet Soul Music",
+    "Roses Are Red",
+    "Because of You",
+    "(I Can't Get No) Satisfaction",
+    "Love Hangover",
+    "Unforgettable",
+    "I Honestly Love You"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ba42370d4c09cb7c59a78c"
+  },
+  "name": "Gladys Koepp-Gibson",
+  "dateOfBirth": {
+    "$date": "1979-08-30T01:44:06.670Z"
+  },
+  "genre": "Soul",
+  "albums": [
+    "War",
+    "Summertime Blues",
+    "Without Me",
+    "Ole Buttermilk Sky"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ba42380d4c09cb7c59a78e"
+  },
+  "name": "Marion Osinski",
+  "dateOfBirth": {
+    "$date": "1988-12-08T10:06:14.979Z"
+  },
+  "genre": "Pop",
+  "albums": [
+    "Earth Angel",
+    "Drop it Like It's Hot",
+    "Stop! in the Name of Love",
+    "Time of the Season",
+    "Papa Was a Rolling Stone"
+  ],
+  "__v": 0
+}]

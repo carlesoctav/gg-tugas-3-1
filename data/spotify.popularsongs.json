@@ -1,0 +1,180 @@
+[{
+  "_id": {
+    "$oid": "64ba42440d4c09cb7c59a7cd"
+  },
+  "period": "Nov 2009",
+  "title": "Papa Was a Rolling Stone",
+  "playCount": 9957893,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ba42440d4c09cb7c59a7d0"
+  },
+  "period": "Nov 1991",
+  "title": "Vaya Con Dios (may God Be With You)",
+  "playCount": 74914276,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ba42450d4c09cb7c59a7d3"
+  },
+  "period": "Feb 1992",
+  "title": "I Fall to Pieces",
+  "playCount": 53095501,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ba42450d4c09cb7c59a7d6"
+  },
+  "period": "Feb 2013",
+  "title": "As Time Goes By",
+  "playCount": 15819292,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ba42460d4c09cb7c59a7d9"
+  },
+  "period": "Nov 2017",
+  "title": "Yakety Yak",
+  "playCount": 21441591,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ba42470d4c09cb7c59a7dc"
+  },
+  "period": "Jul 2001",
+  "title": "Yakety Yak",
+  "playCount": 21441591,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ba42470d4c09cb7c59a7df"
+  },
+  "period": "May 2006",
+  "title": "All I Wanna Do",
+  "playCount": 48328148,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ba42480d4c09cb7c59a7e2"
+  },
+  "period": "Nov 2006",
+  "title": "Brown Eyed Girl",
+  "playCount": 14910130,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ba42490d4c09cb7c59a7e5"
+  },
+  "period": "May 2006",
+  "title": "Third Man Theme",
+  "playCount": 32147557,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ba42490d4c09cb7c59a7e8"
+  },
+  "period": "Oct 2008",
+  "title": "The Letter",
+  "playCount": 66663776,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ba424a0d4c09cb7c59a7eb"
+  },
+  "period": "May 2003",
+  "title": "Say It Right",
+  "playCount": 96096059,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ba424a0d4c09cb7c59a7ee"
+  },
+  "period": "Apr 1994",
+  "title": "Third Man Theme",
+  "playCount": 32147557,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ba424b0d4c09cb7c59a7f1"
+  },
+  "period": "Jan 2010",
+  "title": "Say It Right",
+  "playCount": 96096059,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ba424c0d4c09cb7c59a7f4"
+  },
+  "period": "May 2011",
+  "title": "At Last",
+  "playCount": 14499174,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ba424c0d4c09cb7c59a7f7"
+  },
+  "period": "May 1994",
+  "title": "Angie",
+  "playCount": 58840562,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ba424d0d4c09cb7c59a7fa"
+  },
+  "period": "Apr 2010",
+  "title": "I Fall to Pieces",
+  "playCount": 53095501,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ba424d0d4c09cb7c59a7fd"
+  },
+  "period": "Jun 2016",
+  "title": "Rudolph",
+  "playCount": 29734876,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ba424e0d4c09cb7c59a800"
+  },
+  "period": "Jul 1997",
+  "title": "All I Wanna Do",
+  "playCount": 48328148,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ba424f0d4c09cb7c59a803"
+  },
+  "period": "Mar 2005",
+  "title": "Leader of the Pack",
+  "playCount": 75560022,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ba424f0d4c09cb7c59a806"
+  },
+  "period": "Aug 2014",
+  "title": "Don't Let the Stars Get in Your Eyes",
+  "playCount": 47493192,
+  "__v": 0
+}]
